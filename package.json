@@ -4,6 +4,7 @@
   "description": "Express, socket.io and React",
   "main": "index.js",
   "scripts": {
+    "dev": "PORT=7000 nodemon ./index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -13,5 +14,12 @@
     "ngrok"
   ],
   "author": "Francis Rodrigues",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
 }
