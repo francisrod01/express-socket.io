@@ -1,0 +1,8 @@
+# node modules
+/node_modules/
+
+# lock files
+*.lock
+
+# coverage folder
+/coverage/
