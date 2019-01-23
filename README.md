@@ -4,6 +4,7 @@ A demonstration of how to use `express.js`, `socket.io` and `React`
 
 - The back-end socket connection
 - Author: [Francis Rodrigues][1]
+- Based on [video tutorial][6] in (pt-BR)
 
 ## Dependencies ##
 
@@ -50,3 +51,4 @@ MIT
 [3]: https://dashboard.ngrok.com/get-started
 [4]: https://amritb.github.io/socketio-client-tool/
 [5]: https://codesandbox.io/s/456vz7lj7
+[6]: https://youtu.be/gWD8LRjquv8
